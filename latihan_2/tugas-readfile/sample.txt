@@ -1,0 +1,2 @@
+Halo, ini adalah contoh isi file teks.
+Node.js sangat menarik!
