@@ -1,0 +1,11 @@
+{
+  "name": "tugas-intro-node",
+  "version": "1.0.0",
+  "description": "Tugas pertama express JS - Sanbercode",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "author": "Lazuardi Nugraha",
+  "license": "ISC"
+}

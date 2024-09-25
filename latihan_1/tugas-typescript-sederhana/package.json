@@ -1,0 +1,14 @@
+{
+  "name": "tugas-typescript-sederhana",
+  "version": "1.0.0",
+  "description": "Tugas kedua express JS - Sanbercode",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "author": "Lazuardi Nugraha",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.6.2"
+  }
+}
